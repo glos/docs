@@ -11,7 +11,6 @@ This repo contains GLOS DMAC documentation, including:
   
   - Products
 
-
-http://www.limno.com
+The documentation is orimarily stored in the repo wiki (https://github.com/glos/docs/wiki)
 
 
