@@ -11,6 +11,6 @@ This repo contains GLOS DMAC documentation, including:
   
   - Products
 
-The documentation is orimarily stored in the repo wiki (https://github.com/glos/docs/wiki)
+The documentation is primarily stored in the repo wiki (https://github.com/glos/docs/wiki)
 
 
